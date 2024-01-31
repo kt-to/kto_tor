@@ -1,0 +1,5 @@
+/Users/dmitrijfominyh/Desktop/kto_tor/cmake-build-debug/CMakeFiles/kto_tor.dir
+/Users/dmitrijfominyh/Desktop/kto_tor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dmitrijfominyh/Desktop/kto_tor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dmitrijfominyh/Desktop/kto_tor/cmake-build-debug/CMakeFiles/kto_tor_autogen_timestamp_deps.dir
+/Users/dmitrijfominyh/Desktop/kto_tor/cmake-build-debug/CMakeFiles/kto_tor_autogen.dir
